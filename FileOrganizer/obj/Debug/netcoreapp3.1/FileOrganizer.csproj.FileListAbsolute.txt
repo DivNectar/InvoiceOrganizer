@@ -1,0 +1,13 @@
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.csprojAssemblyReference.cache
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.AssemblyInfoInputs.cache
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.AssemblyInfo.cs
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\FileOrganizer.exe
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\FileOrganizer.deps.json
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\FileOrganizer.runtimeconfig.json
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\FileOrganizer.runtimeconfig.dev.json
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\FileOrganizer.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\FileOrganizer.pdb
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.pdb
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.genruntimeconfig.cache
