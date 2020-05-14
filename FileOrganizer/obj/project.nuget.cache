@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ebEBRYOq4V1svy2PjEbEwuGuUtPbRo0jiCzaypKTBr8gnBgUqWN51t/bnUvB38mm/KWzl8eQlvIIb1Nktb8gpA==",
+  "dgSpecHash": "w7T5j0F/EzFVBqCB++zRlxXk+VG45uSH6aQgs29tOGVEaVxDKWfWRf9x4QDQvQmEVaXv5ozza0Drqt9a8JwGww==",
   "success": true,
   "projectFilePath": "C:\\Users\\ifEls\\Code\\Dotnet Projects\\FileOrganizer\\FileOrganizer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ifEls\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\ifEls\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\ifEls\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\ifEls\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\ifEls\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\ifEls\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\ifEls\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

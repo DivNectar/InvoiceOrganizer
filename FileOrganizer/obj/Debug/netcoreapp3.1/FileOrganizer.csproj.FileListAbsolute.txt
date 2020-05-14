@@ -1,5 +1,4 @@
 C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.csprojAssemblyReference.cache
-C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.csproj.CoreCompileInputs.cache
 C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.AssemblyInfoInputs.cache
 C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.AssemblyInfo.cs
 C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\FileOrganizer.exe
@@ -11,3 +10,13 @@ C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\FileOr
 C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.dll
 C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.pdb
 C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.genruntimeconfig.cache
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\ifEls\Code\Dotnet Projects\FileOrganizer\obj\Debug\netcoreapp3.1\FileOrganizer.csproj.CopyComplete
